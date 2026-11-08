@@ -37,10 +37,13 @@ I'm a developer from Pakistan passionate about creating modern, responsive, and 
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🧸 Toyland | Full-stack toy shopping platform | React, Node.js, MongoDB |
-| 🏡 Haven | Modern real estate web application | React, Vite |
-| 🍽️ Table | Restaurant intelligence platform | React |
-| 🏢 Hexovate ERP | Company management system | React, Node.js, MongoDB |
+| 🕌 **Al-Kareem** | Full-stack web platform with patient and intern portals | React, TypeScript, Node.js, Express, MongoDB |
+| 🏢 **Hexovate ERP** | Company ERP system for employee and business management | React, TypeScript, Node.js, Express, MongoDB |
+| 🧸 **Toyland** | Full-stack toy shopping and e-commerce platform | React, Node.js, Express, MongoDB |
+| 🏡 **Haven** | Modern real estate web application | React, Vite, JavaScript |
+| 🍽️ **Table** | Restaurant intelligence platform | React, Vite, JavaScript |
+
+---
 
 ---
 
