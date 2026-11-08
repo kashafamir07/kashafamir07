@@ -69,6 +69,9 @@ I'm a developer from Pakistan passionate about creating modern, responsive, and 
   <a href="https://www.linkedin.com/in/kashaf-amir-757563388?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="https://kashaf-dev-portfolio.freebuff.page/">
+    <img src="https://img.shields.io/badge/Portfolio-C8FF5A?style=for-the-badge&logo=vercel&logoColor=111111" />
+  </a>
 </p>
 
 ---
